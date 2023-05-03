@@ -1,0 +1,1 @@
+{ Filter = { Bundles = ( "com.apple.shortcuts", "com.apple.WorkflowKit.BackgroundShortcutRunner", "com.apple.WorkflowKit.ShortcutsIntents", "com.apple.springboard" ); Executables = ( "siriactionsd" ); }; }

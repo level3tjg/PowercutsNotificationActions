@@ -1,0 +1,10 @@
+Package: com.level3tjg.powercutsnotificationactions
+Name: Powercuts Notification Actions
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Enable / Disable notifications per-app in Shortcuts
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.powercutsnotificationactions
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.anthopak.powercuts
